@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of hikarilan/flarum-passkey-login.** Not for installation: use [Packagist](https://packagist.org/packages/hikarilan/flarum-passkey-login) or the [upstream repository](https://github.com/shaokeyibb/flarum-passkey-login).
 
-**0** versions archived · Latest: [`0.3`](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.3) · License: `Apache-2.0` · Flarum: `^1.8.5`
+**4** versions archived · Latest: [`0.3`](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.3) · License: `Apache-2.0` · Flarum: `^1.8.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2023-11-24 | `^1.2.0` | [Browse](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.1) |
+| `0.1.1` | 2023-11-26 | `^1.8.2` | [Browse](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.1.1) |
+| `0.2` | 2023-11-26 | `^1.8.2` | [Browse](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.2) |
+| `0.3` | 2024-07-18 | `^1.8.5` | [Browse](https://github.com/flarchive/hikarilan-flarum-passkey-login/tree/archive/v0.3) |
 
 Catalog entry: [packages/hikarilan-flarum-passkey-login.json](https://github.com/flarchive/archive-index/blob/main/packages/hikarilan-flarum-passkey-login.json)
 
